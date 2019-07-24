@@ -1,5 +1,1 @@
-{
-	"labels": {
-		
-	}
-}
+{"labels":{"6c7de7c9-06fa-4384-b770-dcd5d2d10b26":{"description":"","has":null,"accessors":["."],"quiz":null,"uuid":"554a5979-9b76-43c4-aaac-641d3018aa6c","plural":"6c7de7c9-06fa-4384-b770-dcd5d2d10b26s"}}}
