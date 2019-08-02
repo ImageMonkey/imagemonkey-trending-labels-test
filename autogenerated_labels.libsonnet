@@ -1,1 +1,1 @@
-{"labels":{"1f61a8cb-f255-4fc0-bb4d-7fe729f229d2":{"description":"","accessors":["."],"uuid":"60874b09-ae3c-42c2-a960-51f33584c687","plural":"hallowelts"}}}
+{"labels":{"1f61a8cb-f255-4fc0-bb4d-7fe729f229d2":{"description":"","accessors":["."],"uuid":"60874b09-ae3c-42c2-a960-51f33584c687","plural":"hallowelts"},"51fdab65-9277-4119-9049-c30226d11c6f":{"description":"","accessors":["."],"uuid":"96c5ea56-7a02-47fc-ab0a-b04b72fb5e58","plural":"red apples"}}}
